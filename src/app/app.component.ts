@@ -9,7 +9,7 @@ import { Componente04Component } from "./componente04/componente04.component";
     selector: 'app-root',
     standalone: true,
     templateUrl: './app.component.html',
-    styleUrl: './app.component.sass',
+    styleUrl: './app.component.scss',
     imports: [RouterOutlet, Componente01Component, Componente02Component, Componente03Component, Componente04Component]
 })
 export class AppComponent {

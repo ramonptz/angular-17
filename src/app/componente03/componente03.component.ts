@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './componente03.component.html',
-  styleUrl: './componente03.component.sass'
+  styleUrl: './componente03.component.scss'
 })
 export class Componente03Component {
   //função para alterar a imagem
